@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100;200;300;400;500;600;700;900&display=swap');
+f@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100;200;300;400;500;600;700;900&display=swap');
 
 /* NAVBAR */
 
@@ -82,7 +82,7 @@
 .image-frame {
     width: 480px;
     height: 480px;
-    background-image: url(../images/logo-colombiaespacial.png);
+    background-image: url(../images/logo-encuentro.png);
     background-position: center;
     background-size: cover;
     border: 0px solid #FFFFFF;
