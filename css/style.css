@@ -22,7 +22,7 @@ sec5-portfolio-headf@import url('https://fonts.googleapis.com/css2?family=Roboto
     padding: 8px 20px !important;
 }
 
-.nav-custom-link {
+.-custom-link {
     font-weight: bold;
     color: #FFFFFF !important;
     text-transform: uppercase;
@@ -34,7 +34,7 @@ sec5-portfolio-headf@import url('https://fonts.googleapis.com/css2?family=Roboto
 }
 
 .color-white {
-    color: #FFFFFF !important;
+    color: #222054 !important;
 }
 
 .nav-btn-icon {
